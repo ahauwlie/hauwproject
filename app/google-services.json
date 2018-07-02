@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "43235108737",
+    "firebase_url": "https://hauwproject-e6fe2.firebaseio.com",
+    "project_id": "hauwproject-e6fe2",
+    "storage_bucket": "hauwproject-e6fe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43235108737:android:c8dad859a4d24de3",
+        "android_client_info": {
+          "package_name": "com.pointwar.hauwproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43235108737-28nbgrd5kbnrj4osn246bffhj0fvfk4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pointwar.hauwproject",
+            "certificate_hash": "189f3214cff9f1d5d36151ea01c79ee37363e88d"
+          }
+        },
+        {
+          "client_id": "43235108737-m97n21jlulijdirhi90hucugq36odsts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8RD1RhuzUUCrNgnU8VA1n1yh7xm5t8Wk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43235108737-m97n21jlulijdirhi90hucugq36odsts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
