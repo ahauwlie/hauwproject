@@ -28,6 +28,10 @@
             android:label="@string/title_activity_login"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
+            android:name=".loginphone"
+            android:label="Login with Phone Number"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
             android:name=".forgotpassword"
             android:label="@string/title_activity_reset_password"
             android:theme="@style/AppTheme.NoActionBar"></activity>

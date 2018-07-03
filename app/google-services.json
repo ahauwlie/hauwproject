@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "43235108737-93j04tarsk13l8h9dd6tf8k55c0riqvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pointwar.hauwproject",
+            "certificate_hash": "1dc655eea797155dd0b84fee64e9c1d4b417f8ca"
+          }
+        },
+        {
           "client_id": "43235108737-m97n21jlulijdirhi90hucugq36odsts.apps.googleusercontent.com",
           "client_type": 3
         }
